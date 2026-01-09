@@ -6,7 +6,7 @@ Manual Navigation: "Previous" and "Next" buttons for user control.
 Array Integration: Images are managed via a JavaScript array for easy addition/removal of slides.
 Radio Button Sync: Navigation dots sync with the current slide.
 
-Technologies Used
+Technologies Used  
 HTML5: Structure and content.
 CSS3: Styling, layout, and transitions.
 JavaScript (ES6): Functionality, array management, and event handling.
