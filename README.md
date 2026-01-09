@@ -50,3 +50,16 @@ A sleek, responsive, and automated image slider project built with modern web te
 1. **Clone the Repo**
    ```bash
    git clone github.com.git
+   How to Clone this Project
+
+To get this project onto your local machine, follow these steps. You will need your **GitHub username** to complete the process if you are using Git Bash.
+
+```bash
+# 1. Open your terminal or Git Bash
+# 2. Clone the repository
+git clone github.com
+
+# 3. Enter the folder
+cd Image-Slider
+
+# 4. Open index.html in your browser
